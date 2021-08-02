@@ -2,7 +2,7 @@
 
 ---
 
-> Click :star:if you like the project. Pull Requests are highly appreciated. Visit here [@gosnippets](https://gosnippets.com) for technical updates.
+> Click :star:if you like the project. Pull Requests are highly appreciated. Visit here [gosnippets.com](https://gosnippets.com) for awesome snippets.
 
 ---
 
